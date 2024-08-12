@@ -18,11 +18,11 @@ public class calculadora {
         return num1 + num2;
     }
     
-    public void subtrair(int num1, int num2){
-        resultado = num1 - num2;
+    public int subtrair(){
+        return num1 - num2;
 }
-    public void dividir(){
-        resultado = num1 / num2;
+    public double dividir(){
+        return num1 / num2;
     }
 
     public int multiplicar(){
