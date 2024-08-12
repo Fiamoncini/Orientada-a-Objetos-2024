@@ -1,4 +1,4 @@
-Programação Orientada a Objetos (POO) - 2º Semestre
+**Programação Orientada a Objetos (POO) - 2º Semestre**
 
 Descrição da Disciplina
 
