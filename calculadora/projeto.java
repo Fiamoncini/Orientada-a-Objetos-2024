@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package calculadora;
 
 import java.util.Scanner;
@@ -25,8 +21,6 @@ public projeto(){
     System.out.println("Subtrair = " + c1.resultado);
     c1.dividir();
     System.out.println("Dividir = " + c1.resultado);
-    System.out.println("Multiplicar " + c1.multiplicar());
-    
-    
+    System.out.println("Multiplicar = " + c1.multiplicar());
 }
 }
