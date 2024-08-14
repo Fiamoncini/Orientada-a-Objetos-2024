@@ -29,11 +29,9 @@ public class App {
         
         //b
         c2.depositar(5000);
-        System.out.println("Saldo: R$"+c2.getSaldo());
         
         //c
         c2.sacar(2000);
-        System.out.println("Saldo: R$"+c1.getSaldo());
         
         //d
         c2.transferir(c1, 1800);
